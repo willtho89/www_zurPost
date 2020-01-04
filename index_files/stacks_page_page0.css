@@ -194,42 +194,6 @@ MOBILE
     margin: 0% 0% 0% 0%;
 }
 }
-#UsefulStackWrapperstacks_in_1791_page0 {
-	margin: 0 auto;
-	min-width: 0px;
-	max-width: 1000px;
-	
-	min-height: 0px;
-	max-height: 2000px;
-	overflow: hidden;
-}
-
-#UsefulStackstacks_in_1791_page0 {
-	padding-bottom: 0%;
-	padding-top: 0%;
-	padding-left: 0%;
-	padding-right: 0%;
-	
-	margin-bottom: 0%;
-	margin-top: 0%;
-	margin-left: 0%;
-	margin-right: 0%;
-	
-	display: block;
-}
-
-
-
-@media screen and (max-width: 100px) {
-	#UsefulStackstacks_in_1791_page0 {
-		display: none;
-	}
-}
-
-
-
-
-
 
 #stacks_in_1735_page0 {
 	background-color: rgba(231, 234, 234, 0.06);
